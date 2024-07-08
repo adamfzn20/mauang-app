@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783444411147",
+    "firebase_url": "https://mauang-dd06b-default-rtdb.firebaseio.com",
+    "project_id": "mauang-dd06b",
+    "storage_bucket": "mauang-dd06b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783444411147:android:6fa3936adb7e819e12d80e",
+        "android_client_info": {
+          "package_name": "com.example.mauang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783444411147-8b3jus13aoq6abh3dkcureef71uqubph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mauang",
+            "certificate_hash": "34f4ddedae5a9fd0e562975eeb113c7cb903c2ad"
+          }
+        },
+        {
+          "client_id": "783444411147-15rvk8m8ovd6oor7np40jo1pdp0i8hd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYlPiwyqU-iLueu5JyI2t9Ud0uFG9l2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783444411147-15rvk8m8ovd6oor7np40jo1pdp0i8hd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
